@@ -1,8 +1,8 @@
 # Book settings
 # Learn more at https://jupyterbook.org/customize/config.html
 
-title: Renewable Energy
-author: Professor nasr ghoniem
+title: My sample book
+author: The Jupyter Book Community
 logo: logo.png
 
 # Force re-execution of notebooks on each build.
@@ -30,4 +30,3 @@ repository:
 html:
   use_issues_button: true
   use_repository_button: true
-

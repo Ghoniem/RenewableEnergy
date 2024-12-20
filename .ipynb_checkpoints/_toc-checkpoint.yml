@@ -4,6 +4,6 @@
 format: jb-book
 root: intro
 chapters:
-- file: 10WeekSyllabus
-- file: ProjectSyllabus
-- file: ProjectInstructions
+- file: markdown
+- file: notebooks
+- file: markdown-notebooks
