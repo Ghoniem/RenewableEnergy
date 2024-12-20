@@ -1,11 +1,10 @@
-# Welcome to your Jupyter Book
+# Renewable Energy: Physics and Technology
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
-
-Check out the content pages bundled with this sample book to see more.
+Welcome to Professor Ghoniem's course on the physics and technology of renewable energy sources. The course provides introductory-level tutorials on the
+conversion principles and technologies in various renewable energy sources,
+such as solar, wind, hydro, biomass, and geothermal. We examine the
+issues involved in the thermodynamics, design, and operation of three
+main systems: solar, biomass, and hydro-power.
 
 ```{tableofcontents}
 ```
